@@ -27,5 +27,6 @@
     "@carco/view": "^0.0.2",
     "loadsh": "^0.0.4",
     "semver": "^7.3.5"
-  }
+  },
+  "gitHead": "5a2d9c6d82e01e04eb1b5cfc40673d50d6de7358"
 }

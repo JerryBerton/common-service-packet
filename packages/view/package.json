@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "loadsh": "^0.0.4"
-  }
+  },
+  "gitHead": "5a2d9c6d82e01e04eb1b5cfc40673d50d6de7358"
 }
