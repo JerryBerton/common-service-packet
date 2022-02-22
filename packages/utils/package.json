@@ -28,6 +28,5 @@
     "loadsh": "^0.0.4",
     "semver": "^7.3.5"
   },
-  "private": true,
   "gitHead": "36af06cd50cecd9eaf3eeaa16502c08391bc47ea"
 }
