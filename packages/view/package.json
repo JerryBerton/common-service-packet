@@ -26,5 +26,6 @@
   "dependencies": {
     "loadsh": "^0.0.4"
   },
-  "gitHead": "6c2444f20a90fbbacb285437164d5d59e6b81b2f"
+  "private": true,
+  "gitHead": "36af06cd50cecd9eaf3eeaa16502c08391bc47ea"
 }
