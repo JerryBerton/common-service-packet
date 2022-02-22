@@ -1,6 +1,6 @@
 {
   "name": "@carco/utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "王敬博 <wangjingbo17@jd.com>",
   "homepage": "",
@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@carco/view": "^0.0.1",
+    "@carco/view": "^0.0.2",
     "loadsh": "^0.0.4",
     "semver": "^7.3.5"
   }
