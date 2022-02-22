@@ -1,6 +1,6 @@
 {
   "name": "@carco/view",
-  "version": "0.0.6-alpha.0",
+  "version": "0.0.7-alpha.0",
   "description": "> TODO: description",
   "author": "王敬博 <wangjingbo17@jd.com>",
   "homepage": "",
@@ -26,5 +26,5 @@
   "dependencies": {
     "loadsh": "^0.0.4"
   },
-  "gitHead": "36af06cd50cecd9eaf3eeaa16502c08391bc47ea"
+  "gitHead": "643d2139b779287aee5d2c226a498c5f25963aa1"
 }
