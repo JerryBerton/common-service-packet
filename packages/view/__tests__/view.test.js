@@ -2,6 +2,6 @@
 
 const view = require('..');
 
-describe('@test-jdh-org/view', () => {
+describe('@carco/view', () => {
     it('needs tests');
 });

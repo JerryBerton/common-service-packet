@@ -1,11 +1,11 @@
-# `@test-jdh-org/view`
+# `@carco/view`
 
 > TODO: description
 
 ## Usage
 
 ```
-const view = require('@test-jdh-org/view');
+const view = require('@carco/view');
 
 // TODO: DEMONSTRATE API
 ```

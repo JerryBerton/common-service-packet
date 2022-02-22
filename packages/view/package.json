@@ -1,5 +1,5 @@
 {
-  "name": "@test-jdh-org/view",
+  "name": "@carco/view",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "王敬博 <wangjingbo17@jd.com>",
@@ -16,10 +16,14 @@
   "publishConfig": {
     "registry": "http://registry.m.jd.com/"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@coding.jd.com:wangjingbo17/common-service-packet.git"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@test-jdh-org/utils": "^0.0.1"
+    "loadsh": "^0.0.4"
   }
 }

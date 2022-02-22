@@ -2,6 +2,6 @@
 
 const utils = require('..');
 
-describe('@test-jdh-org/utils', () => {
+describe('@carco/utils', () => {
     it('needs tests');
 });

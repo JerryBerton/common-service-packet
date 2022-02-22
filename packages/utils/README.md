@@ -1,11 +1,11 @@
-# `@test-jdh-org/utils`
+# `@carco/utils`
 
 > TODO: description
 
 ## Usage
 
 ```
-const utils = require('@test-jdh-org/utils');
+const utils = require('@carco/utils');
 
 // TODO: DEMONSTRATE API
 ```
